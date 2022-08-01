@@ -1,0 +1,9 @@
+bios
+featurecloud
+medmnist
+numpy
+timm
+matplotlib
+tqdm
+argparse
+pillow
